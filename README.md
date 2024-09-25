@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Mónica!
 
-*
 * Software Engineer with a strong background in creating robust, scalable, and user-friendly web and mobile applications.
 
 Favorite tools to work with:
