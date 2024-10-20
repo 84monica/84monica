@@ -4,7 +4,7 @@
 
 Favorite tools to work with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vue,svelte,js,ts,java,postgresql)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,js,ts,html,css,java,postgresql)](https://skillicons.dev) 
 
 
 ![84monica's Stats](https://github-readme-stats.vercel.app/api?username=84monica&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
